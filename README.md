@@ -4,12 +4,17 @@ Esta aplicación sencilla de javascript consiste en un programa que reproduce au
 
 Con esta aplicación se puede:
 
-*visualizar el tiempo de reproducción y la carátula del tema.
-*pausar/reproducir un tema que elija el usuario de una lista de reproducción
--salto entre canciones, usando los botones de previo/siguiente
--adelantar o ir hacia atras del tema musical reproducido mediante la barra de desplazamiento ubicada en la parte inferior del reproductor
--manipular el volumen de sonido del reproductor
--mostrar/ocultar la lista de reproducción
+visualizar el tiempo de reproducción y la carátula del tema.
+
+pausar/reproducir un tema que elija el usuario de una lista de reproducción
+
+salto entre canciones, usando los botones de previo/siguiente
+
+adelantar o ir hacia atras del tema musical reproducido mediante la barra de desplazamiento ubicada en la parte inferior del reproductor
+
+manipular el volumen de sonido del reproductor
+
+mostrar/ocultar la lista de reproducción
 
 demostraciön https://jarher.github.io/ReproductorAudio/
 
