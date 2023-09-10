@@ -14,5 +14,4 @@ Con esta aplicación se puede:
 
 
 ![127 0 0 1_5500_index html](https://github.com/jarher/ReproductorAudio/assets/7361853/dac9790f-ab47-4826-851b-52a4fd737df8)
-![127 0 0 1_5500_index html (2)](https://github.com/jarher/ReproductorAudio/assets/7361853/2b74d517-0c05-4a32-a345-e41715c18588)
 ![127 0 0 1_5500_index html (1)](https://github.com/jarher/ReproductorAudio/assets/7361853/fe14ef08-2a54-47d4-a6e8-31ac5c7eaa26)
